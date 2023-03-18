@@ -15,8 +15,6 @@
 
 </div>
 
-#  🙋 Hello
-
 <table>
 <tr><td>
 
