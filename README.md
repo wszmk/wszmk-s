@@ -144,8 +144,6 @@ Windows                  1 hr 10 mins        █░░░░░░░░░░�
     <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500" alt="Wakatime"/></td>
   </tr>
   <tr>
-    <td colspan="2"><a href="https://run.sunguoqi.com"><img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/running/assets/github_2023.svg" /></a><br></td>
-  </tr>
 </table>
 </div>
 
