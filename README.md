@@ -220,7 +220,3 @@ Windows                  1 hr 10 mins        █░░░░░░░░░░�
     <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
   </tr>
 </table>
-
-<!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/rocket.png"/>
-</div>
