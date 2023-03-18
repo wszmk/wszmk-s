@@ -128,8 +128,7 @@ Windows                  1 hr 10 mins        █░░░░░░░░░░�
 
 <div align="center" >
 
-<!-- Github-Stats-Terminal 终端风格信息 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Github-Stats-Terminal/github_stats.svg"/><br>
+
   
 
 <!-- GitHub 奖杯🏆 -->
