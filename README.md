@@ -21,8 +21,14 @@
 
 
 
-<p>&emsp;&emsp;海内存知己，天涯若比邻!
+<p>&emsp;&emsp;
+About me:
 
+
+     1.[首页](https://cn.hd.lc/)
+
+
+     2.[音乐搜索器](https://music.wszmk.repl.co/)
 </td></tr>
 
 <tr>
