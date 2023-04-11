@@ -22,10 +22,10 @@
 
 
 <p>&emsp;&emsp;
-About me links:
+   About me:
 
  
-      [blog](https://cnzmk.eu.org)
+[blog](https://cnzmk.eu.org)
   
 
 <tr>
