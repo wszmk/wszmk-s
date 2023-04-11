@@ -25,7 +25,7 @@
 About me:
 
  
-[![BLOG](http://github.com/wszmk/wszmk/img/blog.jpg "BLOG")](https://cnzmk.eu.org)
+[![BLOG](/img/blog.jpg "BLOG")](https://cnzmk.eu.org)
   
 
 <tr>
