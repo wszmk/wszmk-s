@@ -2,7 +2,7 @@
   
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
-    <a href="https://cn.hd.lc/">
+    <a href="https://cnzmk.eu.org/">
     </a>
   </div>
 
@@ -22,10 +22,10 @@
 
 
 <p>&emsp;&emsp;
-   About me:
+About me:
 
  
-[blog](https://cnzmk.eu.org)
+[![BLOG](http://github.com/wszmk/wszmk/img/blog.jpg "BLOG")](https://cnzmk.eu.org)
   
 
 <tr>
