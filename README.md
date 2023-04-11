@@ -22,11 +22,6 @@
 
 
 <p>&emsp;&emsp;
-About me:
-
- 
-[![BLOG](/img/blog.jpg "BLOG")](https://cnzmk.eu.org)
-  
 
 <tr>
 <td>
@@ -160,7 +155,6 @@ Windows                  1 hr 10 mins        █░░░░░░░░░░�
 <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />&emsp;
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true" />
 &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
-
 
 
 
