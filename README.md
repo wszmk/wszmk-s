@@ -25,12 +25,8 @@
 About me links:
 
  
-[首页](https://markdown.com.cn)
+[blog](https://cnzmk.eu.org)
   
-[音乐搜索器](https://music.wszmk.repl.co)
-  
-[replit](https://replit.com/@wszmk)
-</td></tr>
 
 <tr>
 <td>
